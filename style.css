@@ -1,0 +1,59 @@
+/* Afecta a todo */
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* En el body */
+body {
+  background-color: #232d27;
+  color: whitesmoke;
+}
+
+/* En la etiqueta form */
+form {
+  max-width: 400px;
+  padding: 20px;
+  margin: 0 auto;
+  background-color: rgb(128, 140, 126);
+  border-radius: 7px;
+  box-shadow: 0 2px 5px rgb(71, 91, 79);
+}
+
+/* En el encabezado 2 */
+h2 {
+  color: rgb(230, 213, 205);
+  text-align: center;
+}
+
+/* En todas las etiquetas label */
+label {
+  display: block;
+  margin-bottom: 7px;
+  font-weight: bold;
+}
+
+/* En todas las etiquetas input con el atributo type igual a text, email o password */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 94%;
+  padding: 10px;
+  margin-bottom: 13px;
+  border: 1.5px solid rgb(230, 213, 205);
+  border-radius: 5px;
+}
+
+/* En todas las etiquetas input con el atributo type igual a submit */
+input[type="submit"] {
+  padding: 10px 20px;
+  background-color: rgb(71, 91, 79);
+  color: whitesmoke;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+/* Cuando el ratón está encima de la etiqueta input con el atributo type igual a submit */
+input[type="submit"]:hover {
+  background-color: rgb(204, 171, 154);
+}
