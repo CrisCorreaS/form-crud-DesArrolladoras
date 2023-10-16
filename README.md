@@ -1,4 +1,6 @@
 # form-crud-DesArrolladoras
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
+<br/>
 Este repositorio contiene el código fuente de un formulario de alta a una página web, una base de datos con una tabla para guardar la información y un script PHP que valida los datos, los guarda en la tabla y permite su consulta. Fue desarrollado como ejercicio final del curso "Desarrollo Full-Stack (Nivel 3) ED.2022" del programa Samsung DesArrolladoras.
 
 ### Front-end
