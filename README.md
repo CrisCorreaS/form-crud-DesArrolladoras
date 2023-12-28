@@ -1,5 +1,10 @@
 # form-crud-DesArrolladoras
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
+![Badge Finalizado](https://img.shields.io/badge/STATUS-FINALIZADO-violet)
+<img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+
 <br/>
 Este repositorio contiene el código fuente de un formulario de alta a una página web, una base de datos con una tabla para guardar la información y un script PHP que valida los datos, los guarda en la tabla y permite su consulta. Fue desarrollado como ejercicio final del curso "Desarrollo Full-Stack (Nivel 3) ED.2022" del programa Samsung DesArrolladoras.
 
